@@ -1,0 +1,5 @@
+[AUTORUN]
+ShellExecute=USBProtect.exe
+Action=USB Nay Da Duoc Bao Ve Boi Quang Trung
+Shell\a=USB Nay Da Duoc Bao Ve Boi Quang Trung
+Shell\a\command=USBProtect.exe
